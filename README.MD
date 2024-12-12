@@ -1,4 +1,4 @@
-# Ejercisio De Practica De Javascript
+# Ejercicio De Practica De Javascript
 
 El sistema está desarrollado con HTML, CSS y JavaScript.
 
